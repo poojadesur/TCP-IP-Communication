@@ -1,7 +1,7 @@
-# OSN Assignment 6
+
 
 ## Server Client Communication through TCP/IP
-#### Pooja Desur 2019101112 
+#### Pooja Desur
 
 ------------------------
 
